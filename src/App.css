@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.restarButton {
+  border: 2px solid #015ecd;
+  background-color: #9595ff;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.sumarButton {
+  border: 2px solid #010100;
+  background-color: #ffd587;
+}
